@@ -1,4 +1,4 @@
-/* html, body{
+html, body{
     margin: 0;
     padding: 0;
 }
@@ -61,9 +61,9 @@ body{
     padding: 10px 40px;
     text-decoration: none;
     transition: background .5s;
-} */
+} 
 
-/* 
+ 
 .nav{
     background: #000;
     height: 80px;
@@ -99,8 +99,8 @@ body{
 .main img{
     float:left;
     margin:50px 80px 50px 0;
-} */
-/* 
+}
+
 .jumbotron{
     background: url(../img/jumbotron_bg.jpg) center center;
     background-size: cover;
@@ -171,4 +171,4 @@ body{
 }
 
     
-} */
+} 
